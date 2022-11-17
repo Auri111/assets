@@ -2,8 +2,7 @@
     "name": "AURIcoin",
     "website": "https://auricoin.live",
     "description": "A New generation money.",
-    "explorer": "https://etherscan.io/",
-    "research": "https://research.binance.com/en/projects/bnb",
+    "explorer": "https://etherscan.io/address/0x1cf8b0f6133aa6f79f667d9575029705b2225106/",
     "symbol": "AURIcoin",
     "type": "token",
     "decimals": 18,
@@ -15,6 +14,14 @@
         {
             "name": "github",
             "url": "https://github.com/binance-chain/"
+        },
+	  {
+            "name": "twitter",
+            "url": "https://twitter.com/MetaMicGames"
+        },
+        {
+            "name": "telegram",
+            "url": "https://whitepaper.metamicgames.live"
         }
     ]
 }
